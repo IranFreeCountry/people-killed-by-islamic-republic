@@ -1,0 +1,6 @@
+**/terminal.glue
+**/.DS_Store
+**/*-dev.php
+.idea
+/node_modules
+.vscode

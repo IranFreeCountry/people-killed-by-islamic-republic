@@ -1,0 +1,28 @@
+{
+  "name": "people-killed-by-islamic-republic",
+  "version": "1.0.0",
+  "description": "people-killed-by-islamic-republic",
+  "main": "index.js",
+  "scripts": {
+    "build": "ts-node ./data/build.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IranFreeCountry/people-killed-by-islamic-republic.git"
+  },
+  "keywords": [
+    "Iran"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IranFreeCountry/people-killed-by-islamic-republic/issues"
+  },
+  "homepage": "https://github.com/IranFreeCountry/people-killed-by-islamic-republic#readme",
+  "dependencies": {
+    "typescript": "^4.9.3"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
