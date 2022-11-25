@@ -1,6 +1,6 @@
 # Ruhollah Zam
 
-![Ruhollah Zam image](../images/ruhollah-zam.jpg "Ruhollah Zam")
+![Ruhollah Zam image](../../images/ruhollah-zam.jpg "Ruhollah Zam")
 
 ##### Born: 1978-07-27 شهر ری
 
@@ -15,7 +15,7 @@ Executed
 <div dir="rtl">
 # روح‌الله زم
 
-![Ruhollah Zam image](../images/ruhollah-zam.jpg "Ruhollah Zam")
+![Ruhollah Zam image](../../images/ruhollah-zam.jpg "Ruhollah Zam")
 
 ##### تولد: 1978-07-27 شهر ری
 
