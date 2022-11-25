@@ -42,7 +42,7 @@ const entries = Object.entries(data);
           tags: data.tags.map((tag) => tag).join(" "),
           faTags: data.persianTags.map((tag) => tag).join(" "),
           url: data.url || "#",
-          image: "../images/" + id + ".jpg",
+          image: "../../images/" + id + ".jpg",
         };
 
         Object.entries(mapData).forEach(([name, value]) => {
