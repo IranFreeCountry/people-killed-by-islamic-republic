@@ -13,6 +13,7 @@ Executed
 ---
 
 <div dir="rtl">
+  
 # روح‌الله زم
 
 ![Ruhollah Zam image](../../images/ruhollah-zam.jpg "Ruhollah Zam")
